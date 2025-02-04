@@ -16,12 +16,12 @@ Si bien cualquier paso que des en cuanto a tu privacidad, ya es un avance signif
 free unlimited ai with image "upload" site:reddit.com
 
 -  **Alternativa a YouTube** Si quieres poder acceder a todos los videos de *youtube* y tus listas/suscripciones en esa plataforma (Ver cómo liberar tus suscripciones de YouTube la 1ra vez.) De esta forma puedes mantener la privacidad mientras observas los videos, sin servicios de Google monitoreando tus gustos y minutos que pasas mirando videos.
-   - 🖥️  [Freetube](https://freetubeapp.io/), 
-   - 📱 [NewPipe](https://f-droid.org/es/packages/org.schabi.newpipe/)
+   - 🖥️  [**Freetube**](https://freetubeapp.io/), 
+   - 📱 [**NewPipe**](https://f-droid.org/es/packages/org.schabi.newpipe/)
 
 ### Fuentes
 
-- [Web de Naomi Brockwell](https://www.nbtv.media/) sobre privacidad en general 
-- [ToS;DR](https://tosdr.org/es) Web donde la comunidad se toma el trabajo leer de términos de servicio de muchísimos servicios, y calificar qué tan benévolos o opresivos son estos términos.
+- [**Web de Naomi Brockwell**](https://www.nbtv.media/) sobre privacidad en general 
+- [**ToS;DR**](https://tosdr.org/es) Web donde la comunidad se toma el trabajo leer de términos de servicio de muchísimos servicios, y calificar qué tan benévolos o opresivos son estos términos.
 - https://disint.org/
 - https://awesome-privacy.xyz/
