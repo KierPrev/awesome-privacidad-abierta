@@ -11,4 +11,5 @@ Si bien cualquier paso que des en cuanto a tu privacidad, ya es un avance signif
 - **LineageOS**: Compatible con muchos dispositivos, sin tantas funciones de privacidad como Calyx (manualmente se puede llegar a algo similar), pero es la opción más conocida para rootear tu teléfono https://wiki.lineageos.org/
 
 ### Fuentes
-- Web de Naomi Brockwell sobre privacidad en general https://www.nbtv.media/
+- https://www.nbtv.media/ Web de Naomi Brockwell sobre privacidad en general 
+- https://tosdr.org/en Web donde la comunidad se toma el trabajo leer de términos de servicio de muchísimos servicios, y calificar qué tan benévolos o opresivos son estos términos.
