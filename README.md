@@ -15,7 +15,7 @@ Si bien cualquier paso que des en cuanto a tu privacidad, ya es un avance signif
 - 📱 [**TC** TrackerControl](https://trackercontrol.org/), *es una app para el celular* que monitoriza y controla la recolección de datos oculta en las apps, y permite bloqueo de listas personalizadas.
 free unlimited ai with image "upload" site:reddit.com
 
--  🖥️ **Alternativa a YouTube** Si quieres poder acceder a todos los videos de *youtube* y tus listas en esa plataforma, lo ideal es [Freetube](https://freetubeapp.io/) de esta forma puedes mantener la privacidad mientras observas los videos, con además la comodidad de tener las listas de videos que tenias previamente. *Esta para PC unicamente*
+-  🖥️ **Alternativa a YouTube** Si quieres poder acceder a todos los videos de *youtube* y tus listas en esa plataforma, lo ideal es [Freetube](https://freetubeapp.io/) de esta forma puedes mantener la privacidad mientras observas los videos, con además la comodidad de tener las listas de videos que tenias previamente
 
 ### Fuentes
 
