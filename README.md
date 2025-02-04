@@ -12,10 +12,12 @@ Si bien cualquier paso que des en cuanto a tu privacidad, ya es un avance signif
 
 ### Apps (Aplicaciones)
 
-- 📱 [**TC** TrackerControl](https://trackercontrol.org/), *es una app para el celular* que monitoriza y controla la recolección de datos oculta en las apps, y permite bloqueo de listas personalizadas.
+- 📱 [**TC** TrackerControl](https://trackercontrol.org/), que monitoriza y controla la recolección de datos oculta en las apps, y permite bloqueo de listas personalizadas.
 free unlimited ai with image "upload" site:reddit.com
 
--  🖥️ **Alternativa a YouTube** Si quieres poder acceder a todos los videos de *youtube* y tus listas en esa plataforma, lo ideal es [Freetube](https://freetubeapp.io/) de esta forma puedes mantener la privacidad mientras observas los videos, con además la comodidad de tener las listas de videos que tenias previamente
+-  **Alternativa a YouTube** Si quieres poder acceder a todos los videos de *youtube* y tus listas en esa plataforma, lo ideal es:
+   - 🖥️  [Freetube](https://freetubeapp.io/), de esta forma puedes mantener la privacidad mientras observas los videos, con además la comodidad de tener las listas de videos que tenias previamente. (Ver cómo liberar tus suscripciones de YouTube la 1ra vez.)
+   - 📱 [NewPipe](https://f-droid.org/es/packages/org.schabi.newpipe/) También puedes importar tus suscripciones.
 
 ### Fuentes
 
