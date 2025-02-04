@@ -12,9 +12,10 @@ Si bien cualquier paso que des en cuanto a tu privacidad, ya es un avance signif
 
 ### Apps (Aplicaciones)
 - Si quieres una alternativa a youtube hay muchas, por ejemplo: [Odysee](https://odysee.com) [Artículo de Wikipedia](https://en.wikipedia.org/wiki/Odysee), entre otros; sin embargo, si quieres poder acceder a todos los videos de *youtube* y tus listas en esa plataforma, lo ideal es [Freetube](https://freetubeapp.io/) de esta forma puedes mantener la privacidad mientras observas los videos, con además la comodidad de tener las listas de videos que tenias previamente. *Esta para PC unicamente*
-- **TC** TrackerControl, *es una app para el celular* que monitoriza y controla la recolección de datos oculta en las apps, y permite bloqueo de listas personalizadas
-
+- **TC** TrackerControl, *es una app para el celular* que monitoriza y controla la recolección de datos oculta en las apps, y permite bloqueo de listas personalizadas.
+free unlimited ai with image "upload" site:reddit.com
 ### Fuentes
 
 - [Web de Naomi Brockwell](https://www.nbtv.media/) sobre privacidad en general 
 - [ToS;DR](https://tosdr.org/es) Web donde la comunidad se toma el trabajo leer de términos de servicio de muchísimos servicios, y calificar qué tan benévolos o opresivos son estos términos.
+free unlimited ai with image "upload" site:reddit.com
