@@ -18,4 +18,5 @@ free unlimited ai with image "upload" site:reddit.com
 
 - [Web de Naomi Brockwell](https://www.nbtv.media/) sobre privacidad en general 
 - [ToS;DR](https://tosdr.org/es) Web donde la comunidad se toma el trabajo leer de términos de servicio de muchísimos servicios, y calificar qué tan benévolos o opresivos son estos términos.
-free unlimited ai with image "upload" site:reddit.com
+- https://disint.org/
+- https://awesome-privacy.xyz/
