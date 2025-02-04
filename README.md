@@ -12,8 +12,9 @@ Si bien cualquier paso que des en cuanto a tu privacidad, ya es un avance signif
 
 ### Apps (Aplicaciones)
 
+Es recomendable instalar las aplicaciones desde F-Droid, un repositorio de apps muy estricto sobre software libre y abierto. Pondremos el logo cuando esté disponible en F-Droid. Si necesitas instalar aplicaciones privativas, en vez de usar PlayStore de Google❌, mejor usa Aurora Store (disponible en F-Droid) y entra anónimamente.
+
 - 📱 [**TC** TrackerControl](https://trackercontrol.org/), que monitoriza y controla la recolección de datos oculta en las apps, y permite bloqueo de listas personalizadas.
-free unlimited ai with image "upload" site:reddit.com
 
 -  **Alternativa a YouTube** Si quieres poder acceder a todos los videos de *youtube* y tus listas/suscripciones en esa plataforma (Ver cómo liberar tus suscripciones de YouTube la 1ra vez.) De esta forma puedes mantener la privacidad mientras observas los videos, sin servicios de Google monitoreando tus gustos y minutos que pasas mirando videos.
    - 🖥️  [**Freetube**](https://freetubeapp.io/), 
