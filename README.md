@@ -12,4 +12,4 @@ Si bien cualquier paso que des en cuanto a tu privacidad, ya es un avance signif
 
 ### Fuentes
 - https://www.nbtv.media/ Web de Naomi Brockwell sobre privacidad en general 
-- https://tosdr.org/en Web donde la comunidad se toma el trabajo leer de términos de servicio de muchísimos servicios, y calificar qué tan benévolos o opresivos son estos términos.
+- https://tosdr.org/es Web donde la comunidad se toma el trabajo leer de términos de servicio de muchísimos servicios, y calificar qué tan benévolos o opresivos son estos términos.
