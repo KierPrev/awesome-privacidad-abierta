@@ -11,7 +11,7 @@ Si bien cualquier paso que des en cuanto a tu privacidad, ya es un avance signif
 - **[LineageOS](https://wiki.lineageos.org/)**: Compatible con muchos dispositivos, sin tantas funciones de privacidad como Calyx (manualmente se puede llegar a algo similar), pero es la opción más conocida para rootear tu teléfono 
 
 ### Apps (Aplicaciones)
-- Si quieres una alternativa a youtube hay muchas, por ejemplo: [Odysee](https://odysee.com) [Artículo de Wikipedia](https://en.wikipedia.org/wiki/Odysee), entre otros; sin embargo, si quieres poder acceder a todos los videos de *youtube* y tus listas en esa plataforma, lo ideal es [Freetube](https://freetubeapp.io/) de esta forma puedes mantener la privacidad mientras observas los videos, con además la comodidad de tener las listas de videos que tenias previamente.
+- Si quieres una alternativa a youtube hay muchas, por ejemplo: [Odysee](https://odysee.com) [Artículo de Wikipedia](https://en.wikipedia.org/wiki/Odysee), entre otros; sin embargo, si quieres poder acceder a todos los videos de *youtube* y tus listas en esa plataforma, lo ideal es [Freetube](https://freetubeapp.io/) de esta forma puedes mantener la privacidad mientras observas los videos, con además la comodidad de tener las listas de videos y suscripciones que tenias previamente, sin necesitar usar ningún servicio de Google.
 
 ### Fuentes
 
