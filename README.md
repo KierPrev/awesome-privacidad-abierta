@@ -8,3 +8,6 @@ Descargo de responsabilidad:
 
 Si bien cualquier paso que des en cuanto a tu privacidad, ya es un avance significativo, vamos a empezar con lo que consideramos lo principal: el sistema operativo del celular.
 - LineageOS https://wiki.lineageos.org/
+
+### Fuentes de información útil
+- https://www.nbtv.media/
