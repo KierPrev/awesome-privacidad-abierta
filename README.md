@@ -7,7 +7,8 @@ Descargo de responsabilidad:
 ### Sistema operativo
 
 Si bien cualquier paso que des en cuanto a tu privacidad, ya es un avance significativo, vamos a empezar con lo que consideramos lo principal: el sistema operativo del celular.
-- LineageOS https://wiki.lineageos.org/
+- **CalyxOS**: Compatible con dispositivos selectos, pero tiene fuerte componente de privacidad y seguridad https://calyxos.org/
+- **LineageOS**: Compatible con muchos dispositivos, sin tantas funciones de privacidad como Calyx (manualmente se puede llegar a algo similar), pero es la opción más conocida para rootear tu teléfono https://wiki.lineageos.org/
 
-### Fuentes de información útil
-- https://www.nbtv.media/
+### Fuentes
+- Web de Naomi Brockwell sobre privacidad en general https://www.nbtv.media/
