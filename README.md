@@ -36,6 +36,11 @@ Por desgracia *Mullvad* no esta para móvil/celular, por lo que se puede optar p
 
 Páginas de comparación [🛡️ Browser Privacy Dashboard](https://msrsaditya.github.io/BrowserPrivacy/) (para más de detalle ver [privacytests](https://privacytests.org/) )y [Browser Comparison Tool](https://browsers.avoidthehack.com/)
 
+### Extensiones de navegador
+- **Bitwarden Password Manager**
+- **ClearURLs**
+- **uBlock Origin** y **Privacy Badger** Cumplen básicamente la misma función de forma diferente, en particular nos parece mejor *uBlock Origin*.
+
 ### Buscadores
 
 - [**Brave**](https://brave.com/) en cuanto a su buscador, es uno de los mejores, e independiente de Google o Bing.
