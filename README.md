@@ -84,7 +84,7 @@ Si quieres poder acceder a todos los videos de *YouTube* y tus listas/suscripcio
 - 📱 [**TC** TrackerControl](https://trackercontrol.org/), que monitoriza y controla la recolección de datos oculta en las apps, y permite bloqueo de listas personalizadas.
 
 
-## Fuentes
+## Otras Fuentes
 
 - [**Web de Naomi Brockwell**](https://www.nbtv.media/) sobre privacidad en general 
 - [**ToS;DR**](https://tosdr.org/es) Web donde la comunidad se toma el trabajo leer de términos de servicio de muchísimos servicios, y calificar qué tan benévolos o opresivos son estos términos.
