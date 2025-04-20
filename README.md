@@ -16,6 +16,11 @@ Los principales **servicios a evitar**: Google, Meta, X/Twitter, Amazon, TikTok,
 
 ## Sistema operativo
 
+- 🖥️ **Linux**: Linux es un sistema operativo libre y seguro que te da control total sobre tu computadora y protege mejor tu privacidad que otros sistemas como Windows o macOS.
+Vienen varias distribuciones de Linux.
+
+> **Kier:** En lo particular recomiendo usar Fedora, hoy en 2025.
+
 Si bien cualquier paso que des en cuanto a tu privacidad, ya es un avance significativo, vamos a empezar con lo que consideramos lo principal: el sistema operativo del celular.
 - 📱 **[CalyxOS](https://calyxos.org/)**: Compatible con dispositivos selectos, pero tiene fuerte componente de privacidad y seguridad
 - 📱 **[LineageOS](https://wiki.lineageos.org/)**: Compatible con muchos dispositivos, sin tantas funciones de privacidad como Calyx (manualmente se puede llegar a algo similar), pero es la opción más conocida para rootear tu teléfono y liberarte de GØØGL€.
